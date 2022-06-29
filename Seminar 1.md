@@ -15,7 +15,11 @@
 # Вывод всех установленых настроек
 
     git config --list
-    
+
 # Задать имя для своих репозиториев
 
     git config user.name "Name"
+
+# Задать Email для своих репозиториев
+
+    git config user.email "your@mail"
