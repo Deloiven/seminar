@@ -23,3 +23,8 @@
 # Задать Email для своих репозиториев
 
     git config user.email "your@mail"
+
+# Статус файлов
+
+    git status
+
