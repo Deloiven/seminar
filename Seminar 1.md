@@ -38,4 +38,4 @@
     git log
 # Сравнение источников данных
    
-     git diff
+     git diff 
